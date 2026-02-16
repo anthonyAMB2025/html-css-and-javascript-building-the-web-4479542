@@ -17,3 +17,5 @@ function pointerDrag(e)
     DocumentTimeline.onpointermove = elementDrag;
     document.onpointerup = stopElementDrag;
 }
+
+//video at 5:30 "Adding event handling"
